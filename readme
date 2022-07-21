@@ -1,1 +1,2 @@
-
+It is a GUI application which allows to download Youtube videos and watch
+them of in your device. I use pytube and tkinter library in this project.
